@@ -1,2 +1,4 @@
 name: Qian Guohui, otugi.com
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
